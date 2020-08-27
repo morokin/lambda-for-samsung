@@ -1,1 +1,1 @@
-# lambda-for-samsung
+# Simple lambda function
